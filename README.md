@@ -2,7 +2,7 @@
 
 Página estática e PNGs públicos publicados pelo SkinToUrl Do Dex.
 
-Site: https://github.io/skintourl-do-dex-skins/
+Site: https://github.io/skintourl-do-dex/
 
 Os PNGs em `skins/` usam nomes baseados no SHA-256 do conteúdo. Qualquer pessoa pode abrir os links; novos envios exigem permissão de escrita neste repositório.
 
